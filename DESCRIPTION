@@ -2,7 +2,7 @@ Package: olympicsWeather
 Title: Olympics Weather Data Retrieval Package
 Version: 0.1.0
 Authors@R: 
-    person(LucasLD56, email = "lucas.ledrevo@gmail.com", role = c("aut", "cre"))
+    person("LucasLD56", email = "lucas.ledrevo@gmail.com", role = c("aut", "cre"))
 Description: This package provides functions to retrieve weather data for Olympic events. It allows users to access historical weather information for specific locations and dates related to the Olympics.
 License: MIT + file LICENSE
 Encoding: UTF-8
