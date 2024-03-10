@@ -212,11 +212,11 @@ get_forecast <- function(location) {
   UseMethod("get_forecast")
 }
 
-"library(usethis)
+library(usethis)
 use_description()
 library(devtools)
 document()
-"
+
 
 
 
@@ -235,5 +235,5 @@ visualize_forecast <- function(forecast_data) {
   print(plot)
 }
 
- 8 changes: 8 additions & 0 deletions8  
+
 
